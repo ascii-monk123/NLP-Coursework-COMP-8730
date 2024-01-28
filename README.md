@@ -1,5 +1,5 @@
 # NLP-Coursework-COMP-8730
-A repository containing the coursework for the NLTK course given by the University of Windsor
+A repository containing the coursework for the NLP course given by the University of Windsor
 
 
 ## Team Members:
